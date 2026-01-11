@@ -1,0 +1,158 @@
+{
+  "uuid": "1694404100165aebc4dfb152c288f024",
+  "path": "Offline/LEB_PCB",
+  "name": "LEB_PCB",
+  "content": "",
+  "created_at": "2026-01-07 22:07:24",
+  "updated_at": "2026-01-09 19:35:54",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "0193fa4fbf01a0c1cf70afedb2278418",
+      "title": "schéma",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "6b4734eba1714e9a9bc44ea1445ea515": 8,
+        "dabbad54409041029b5b76fa8b9ff88d": 8,
+        "53d4c9aa0c76454990f6d35087851262": 1,
+        "ac46303692b7460bbcbdd72788207a39": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "100nF",
+          8,
+          "C0603",
+          "C1,C2,C3,C4,C5,C6,C7,C8",
+          {
+            "Manufacturer Part": "CC0603JRX7R7BB104",
+            "Manufacturer": "YAGEO",
+            "Supplier": "LCSC",
+            "Supplier Part": "C109474"
+          }
+        ],
+        [
+          "WS2812B-B",
+          8,
+          "LED-SMD_4P-L5.0-W5.0-TL_WS2812B-B",
+          "LED1,LED2,LED3,LED4,LED5,LED6,LED7,LED8",
+          {
+            "Manufacturer Part": "WS2812B-B",
+            "Manufacturer": "Worldsemi",
+            "Supplier": "LCSC",
+            "Supplier Part": "C114586"
+          }
+        ],
+        [
+          "470Ω",
+          1,
+          "R0603",
+          "R1",
+          {
+            "Manufacturer Part": "CR0603JA0471G",
+            "Manufacturer": "LIZ",
+            "Supplier": "LCSC",
+            "Supplier Part": "C101353"
+          }
+        ],
+        [
+          "2542WR-03P",
+          1,
+          "HDR-TH_3P-P2.54-H-M-W7.7-P",
+          "U1",
+          {
+            "Manufacturer Part": "2542WR-03P",
+            "Manufacturer": "HanElectricity(瀚源)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5383120"
+          }
+        ]
+      ],
+      "updateTime": 1767982183,
+      "createTime": 1767820045,
+      "histories": [],
+      "created_at": "2026-01-07 22:07:25",
+      "updated_at": "2026-01-09 19:09:43"
+    },
+    {
+      "uuid": "aebc172670b46f02c6d731acbea49af6",
+      "puuid": "1694404100165aebc4dfb152c288f024",
+      "title": "PCB_LEB_PCB",
+      "filename": "PCB_LEB_PCB.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "398691f1f785460098bbe5ee6590333c": 1,
+        "f8151fdc728a41ebbc304e11d39e5437": 8,
+        "b492c7f663c44f8ab2afd723c35ea2a4": 8,
+        "7f84f312f8134efd8aef5f86bfba57eb": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "100nF",
+          8,
+          "C0603",
+          "C1,C2,C3,C4,C5,C6,C7,C8",
+          {
+            "Manufacturer Part": "CC0603JRX7R7BB104",
+            "Manufacturer": "YAGEO",
+            "Supplier": "LCSC",
+            "Supplier Part": "C109474"
+          }
+        ],
+        [
+          "WS2812B-B",
+          8,
+          "LED-SMD_4P-L5.0-W5.0-TL_WS2812B-B",
+          "LED1,LED2,LED3,LED4,LED5,LED6,LED7,LED8",
+          {
+            "Manufacturer Part": "WS2812B-B",
+            "Manufacturer": "Worldsemi",
+            "Supplier": "LCSC",
+            "Supplier Part": "C114586"
+          }
+        ],
+        [
+          "470Ω",
+          1,
+          "R0603",
+          "R1",
+          {
+            "Manufacturer Part": "CR0603JA0471G",
+            "Manufacturer": "LIZ",
+            "Supplier": "LCSC",
+            "Supplier Part": "C101353"
+          }
+        ]
+      ],
+      "updateTime": 1767983754,
+      "createTime": 1767821546,
+      "histories": [],
+      "created_at": "2026-01-07 22:32:26",
+      "updated_at": "2026-01-09 19:35:54"
+    }
+  ],
+  "sort": [],
+  "title": "LEB_PCB",
+  "foldername": "LEB_PCB",
+  "schfilename": "LEB_PCB.json",
+  "schfilemtime": 1767982183097
+}
